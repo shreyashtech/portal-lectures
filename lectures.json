@@ -1,11 +1,13 @@
 {
-    "lectures": [
-        { "name": "Lecture 1", "id": "1g4EURO13xLNWKIq-quo14t9dO-aEoG57" },
-        { "name": "Lecture 2", "id": "1LnNPV6B7cIhvJnnx0Cm3awdBpM5hJgif" },
-        { "name": "Lecture 3", "id": "1mdOJd8bkWRTBpZg4HnZGLNdGciW977Pz" }
-        { "name": "Lecture 4", "id": "" },
-        { "name": "Lecture 5", "id": "" }
-        { "name": "Lecture 6", "id": "" },
-        { "name": "Lecture 7", "id": "" }
-    ]
+  "lectures": [
+    { "name": "Lecture 1", "id": "1g4EURO13xLNWKIq-quo14t9dO-aEoG57" },
+    { "name": "Lecture 2", "id": "1LnNPV6B7cIhvJnnx0Cm3awdBpM5hJgif" },
+    { "name": "Lecture 3", "id": "1mdOJd8bkWRTBpZg4HnZGLNdGciW977Pz" },
+    { "name": "Lecture 4", "id": "1hVwESY14VKhSlHPXfKJOzAtGEv-PY1xb" },
+    { "name": "Lecture 5", "id": "1GBdVgluo66752FkdU4GpIhzz22VOaikj" },
+    { "name": "Lecture 6", "id": "1V46s0Jqq6eO4V8_reXLWH9rh_llMibK6" },
+    { "name": "Lecture 7", "id": "1wbXpKC00sqAv0DEEVXS9JMuEuJ2JICCe" },
+    { "name": "Lecture 8", "id": "" },
+    { "name": "Lecture 9", "id": "" }
+  ]
 }
